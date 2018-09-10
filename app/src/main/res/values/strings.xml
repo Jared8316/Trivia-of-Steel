@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trivia of Steel</string>
+    <string name="tap_begin">Tap to Begin</string>
+    <string name="category_title">Select a Category</string>
+    <string name="powers_cat_btn">Powers</string>
+    <string name="personal_cat_btn">Personal</string>
+    <string name="rivals_cat_btn">Rivals</string>
+    <string name="results_title">Results</string>
+    <string name="play_again_btn">Play Again</string>
+
+</resources>
